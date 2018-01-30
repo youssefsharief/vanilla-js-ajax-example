@@ -1,0 +1,32 @@
+.item {
+    display: inline-block;
+    width: 100px;
+    height: 85px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    margin: 10px;
+    color: black;
+    vertical-align: top;
+}
+
+p {
+    text-align: center;
+    margin: 5px;
+    font-size: 8px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.imgDiv {
+    width: 40px;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 50px;
+}
